@@ -888,44 +888,48 @@ font-size: 6rem;
     background-image: url(../images/kueulangtahun/HazelnutChocolateLavaCake.jfif);
 }
 
+.img-TiramisuCake {
+    background-image: url(../images/kueulangtahun/TiramisuCake.jpg);
+}
+
 .img-Coklat {
-    background-image: url(../images/kuebalok/Coklat.jfif);
+    background-image: url(../images/kuebalok/coklat\ besar.jpeg);
 }
 
 .img-CoklatMatcha {
-    background-image: url(../images/kuebalok/CoklatMatcha.jfif);
+    background-image: url(../images/kuebalok/coklatmatcha.jpeg);
 }
 
-.img-CoklatKeju {
-    background-image: url(../images/kuebalok/CoklatKeju.jfif);
+.img-Coklatori {
+    background-image: url(../images/kuebalok/coklatori.jpeg);
 }
 
 .img-Matcha {
-    background-image: url(../images/kuebalok/Matcha.jfif);
+    background-image: url(../images/kuebalok/matcha.jpeg);
 }
 
-.img-MatchaKeju {
-    background-image: url(../images/minum/MatchaKeju.jfif);
+.img-Semuarasa {
+    background-image: url(../images/kuebalok/semuarasa.jpeg);
 }
 
 .img-ChocoLavaMiloChese {
-    background-image: url(../images/minum/ChocoLavaMiloChese.jfif);
+    background-image: url(../images/minum/ChocoLavaMiloChese.jpeg);
 }
 
 .img-CoklatMint {
-    background-image: url(../images/minum/CoklatMint.jfif);
+    background-image: url(../images/minum/CoklatMint.jpeg);
 }
 
 .img-MatchaLatte {
-    background-image: url(../images/minum/MatchaLatte.jfif);
+    background-image: url(../images/minum/MatchaLatte.jpeg);
 }
 
 .img-CaramelMachiato {
-    background-image: url(../images/minum/CaramelMachiato.jfif);
+    background-image: url(../images/minum/CaramelMachiato.jpeg);
 }
 
 .img-ChocoHazelnutChese {
-    background-image: url(../images/minum/ChocoHazelnutChese.jfif);
+    background-image: url(../images/minum/ChocoHazelnutChese.jpeg);
 }
 
 .single_pakeg_text ul li a {
